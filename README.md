@@ -1,4 +1,6 @@
 # FixWrongResult
+Create by: Денис Казанцев & Артем Николаев 
+
 
 -lib
 
